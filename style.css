@@ -1,0 +1,50 @@
+
+.banner {
+    height:0px;border-bottom: 4pt solid black;overflow: hidden !important;padding:0 !important;
+}
+
+.footer .banner {
+    border: none;
+    padding:10px !important;
+    height:25px !important;
+
+}
+.casa-profile-organisation {
+    border-bottom: 3px solid #fc7315 !important;
+;
+}
+
+.au-body .au-form-group  p{
+  max-width:100% !important;
+}
+
+.casa-profile-individual{
+  padding-left:18px;
+  background-image:url(../mycasa-src-3.0/img/profile.png);
+  background-repeat: no-repeat;
+  background-size:24px 24px;
+  background-position: 0 15px;
+}
+
+.casa-profile-organisation{
+  padding-left:18px;
+  background-image:url(../mycasa-src-3.0/img/organisation.png);
+  background-repeat: no-repeat;
+  background-size:24px 24px;
+  background-position: 0 17px;
+}
+
+
+.casa-profiles .casa-profile-individual{
+    background-size:40px 40px;
+    background-position: 20px 17px;
+  }
+
+.casa-profiles   .casa-profile-organisation{
+    background-size:44px 44px;
+    background-position: 20px 17px;
+}
+
+.casa-profile-select{
+  padding-left:80px;
+}
